@@ -1,5 +1,5 @@
 {
-  "name": "sum-JungleJoe713",
+  "name": "sum-gpsqqq",
   "version": "1.0.0",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-    "sum-JungleJoe713": "^1.0.0",
+    "sum-gpsqqq": "^1.0.0",
 	"test-airdrop-khoa1" : "^0.1.0",
 	"test-airdrop-khoa" : "^0.1.1",
 	"tong-huukhoa": "^1.0.0",
@@ -49,15 +49,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JungleJoe713/sum-JungleJoe713"
+    "url": "https://github.com/gpsqqq/sum-gpsqqq"
   },
-  "homepage": "https://twitter.com/Dovlish",
+  "homepage": "https://twitter.com/GuzmaAmerica",
   "keywords": [
     "sum",
     "add",
     "tong",
     "cong"
   ],
-  "author": "JungleJoe713",
+  "author": "gpsqqq",
   "license": "MIT"
 }
